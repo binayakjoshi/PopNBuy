@@ -13,11 +13,12 @@ Pop N' Buy is a simple website designed to connect vendors and customers. Vendor
    npm install
    ```
 
-3. Replace the placeholders in `.env` with your actual database credentials or use a local MongoDB setup.
+3. Replace the placeholders in `nodemon.json` with your actual database credentials or use a local MongoDB setup.
 
 5. Start the application:
    ```bash
    npm run start
    ```
+6.By default when you sign in your role in db is set as customer. update it to admin to add,delete, edit product.
 
-6. Open your browser at `http://localhost:3000` to view the app.
+7. Open your browser at `http://localhost:3000` to view the app.
