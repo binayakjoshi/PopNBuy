@@ -15,7 +15,7 @@ Pop N' Buy is a simple website designed to connect vendors and customers. Vendor
 
 3. Replace the placeholders in `nodemon.json` with your actual database credentials or use a local MongoDB setup.
 
-4.By default when you sign in your role in db is set as customer. update it to admin to add,delete, edit product.
+4. By default when you sign in your role in db is set as customer. Update it to admin to add ,delete, edit product.
 
 5. Start the application:
    ```bash
